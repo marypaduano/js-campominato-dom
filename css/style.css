@@ -37,3 +37,7 @@
 .cell-click {
     background-color: rgb(0, 192, 0);
 }
+
+.cell-bomb {
+    background-color: red;
+}
